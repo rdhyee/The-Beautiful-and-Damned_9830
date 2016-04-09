@@ -1,0 +1,52 @@
+_repo: The-Beautiful-and-Damned_9830
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fitzgerald, F. Scott (Francis Scott)
+    alias: Fitzgerald, Francis Scott Key
+    birthdate: 1896
+    deathdate: 1940
+    gutenberg_agent_id: '420'
+    url: http://www.gutenberg.org/2009/agents/420
+    wikipedia: http://en.wikipedia.org/wiki/F._Scott_Fitzgerald
+description: "The Beautiful and Damned, first published by Scribner's in 1922, is\
+  \ F. Scott Fitzgerald's second novel. It explores and portrays New York café society\
+  \ and the American Eastern elite during the Jazz Age before and after \"the Great\
+  \ War\" and in the early 1920s. As in his other novels, Fitzgerald's characters\
+  \ in this novel are complex, especially with respect to marriage and intimacy. The\
+  \ work is generally considered to have drawn upon and be based on Fitzgerald's relationship\
+  \ and marriage with his wife Zelda Fitzgerald.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2006-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9830'
+  wikidata: Q2531205
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New York (N.Y.) -- Fiction'
+- !lcsh 'Domestic fiction'
+- !lcsh 'Inheritance and succession -- Fiction'
+- !lcsh 'Young men -- Fiction'
+- !lcsh 'Alcoholics -- Fiction'
+- !lcsh 'Psychological fiction'
+- !lcsh 'Married people -- Fiction'
+- !lcsh 'Socialites -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The Beautiful and Damned
+url: http://www.gutenberg.org/ebooks/9830
+wikipedia:
+- https://fi.wikipedia.org/wiki/Kaunis_ja_kadotukseen_tuomittu
+- https://fr.wikipedia.org/wiki/Les_Heureux_et_les_Damn%C3%A9s
+- https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AC%D9%85%D9%8A%D9%84%D8%A9_%D9%88%D8%A7%D9%84%D9%85%D9%84%D8%B9%D9%88%D9%86
+- https://pt.wikipedia.org/wiki/Belos_e_Malditos
+- https://ast.wikipedia.org/wiki/The_Beautiful_and_Damned
+- https://pl.wikipedia.org/wiki/Pi%C4%99kni_i_przekl%C4%99ci
+- https://fa.wikipedia.org/wiki/%D8%B2%DB%8C%D8%A8%D8%A7_%D9%88_%D9%85%D9%84%D8%B9%D9%88%D9%86
+- https://es.wikipedia.org/wiki/Los_hermosos_y_malditos
+- https://en.wikipedia.org/wiki/The_Beautiful_and_Damned
+- https://it.wikipedia.org/wiki/Belli_e_dannati_(romanzo)
+- https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B5%D0%BA%D1%80%D0%B0%D1%81%D0%BD%D1%8B%D0%B5_%D0%B8_%D0%BF%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D1%8B%D0%B5
